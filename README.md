@@ -1,5 +1,4 @@
 ### 👋 Hello, I'm Kanhaiya Sinha
-
 ---
 ### 👨‍💻 About Me
 I am a passionate and results-driven software engineer with a strong background in developing innovative and efficient solutions. My expertise lies in designing and implementing software solutions that meet business requirements while ensuring scalability and maintainability.
@@ -9,7 +8,6 @@ I am a passionate and results-driven software engineer with a strong background 
 - **Frameworks:** React.js, Express, Node.js, Tailwind CSS, Bootstrap
 - **Databases:** MySQL, MongoDB, , Firebase, Hana DB
 - **Tools & Technologies:** VS Code, Git, Github, Android Studio
-- **DevOps:** CI/CD, Jenkins
 
 ### 🌐 Portfolio
 Check out my portfolio for a closer look at some of the projects I've worked on. From web applications to backend systems, I strive for excellence in every line of code. [Portfolio Link](your-portfolio-link)
@@ -29,8 +27,3 @@ Feel free to reach out if you have any questions, collaborations, or just want t
 
 ### ⚡ Fun Fact
 In my free time, I enjoy Travelling, Cricket, Table Tennis. Let's chat about it!
-
-Thanks for visiting my GitHub profile! 😊
-
----
-Feel free to customize this template to better reflect your specific skills, projects, and interests. Add or remove sections as needed, and make it a true representation of who you are as a software engineer.
