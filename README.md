@@ -1,6 +1,8 @@
 ### 👋 Hello, I'm Kanhaiya Sinha
 ---
+<p align="center">
 ![image](https://github.com/kanhaiyasinha/kanhaiyasinha/assets/147611285/bc670466-d945-4b60-aa60-ae12e7806165)
+</p>
 ---
 
 ### 👨‍💻 About Me
