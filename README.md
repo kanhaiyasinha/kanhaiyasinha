@@ -1,5 +1,8 @@
 ### 👋 Hello, I'm Kanhaiya Sinha
 ---
+![image](https://github.com/kanhaiyasinha/kanhaiyasinha/assets/147611285/bc670466-d945-4b60-aa60-ae12e7806165)
+---
+
 ### 👨‍💻 About Me
 I am a passionate and results-driven software engineer with a strong background in developing innovative and efficient solutions. My expertise lies in designing and implementing software solutions that meet business requirements while ensuring scalability and maintainability.
 
