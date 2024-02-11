@@ -17,17 +17,12 @@ I am a passionate and results-driven software engineer with a strong background 
 Check out my portfolio for a closer look at some of the projects I've worked on. From web applications to backend systems, I strive for excellence in every line of code. [Portfolio Link](your-portfolio-link)
 
 ### 📚 Education
-- Bachelor of Technology in Computer Science and Engineering, CSVTU, 2021
-
-### 🌱 I’m Currently Learning
-I am always eager to stay updated with the latest technologies. Currently, I am exploring MERN.
-
-### 💬 Let's Connect
-Feel free to reach out if you have any questions, collaborations, or just want to connect. You can find me on [kanhaiyasinha](https://www.linkedin.com/in/kanhaiyasinha/)
+- B.Tech in Computer Science and Engineering, CSVTU, 2021
 
 ### 📫 How to Reach Me
 - Email: sinhakanha21@gmail.com
 - LinkedIn: [kanhaiyasinha](https://www.linkedin.com/in/kanhaiyasinha/)
+- Insta : [@_krishna_10_](https://www.instagram.com/_krishna_10_/)
 
 ### ⚡ Fun Fact
 In my free time, I enjoy Travelling, Cricket, Table Tennis. Let's chat about it!
