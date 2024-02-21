@@ -16,9 +16,6 @@ I am a passionate and results-driven software engineer with a strong background 
 ### 🌐 Portfolio
 Check out my portfolio for a closer look at some of the projects I've worked on. From web applications to backend systems, I strive for excellence in every line of [Portfolio](https://kanhaiyasinha.github.io/)
 
-### 📚 Education
-- B.Tech in Computer Science and Engineering, CSVTU, 2021
-
 ### 📫 How to Reach Me
 - Email: sinhakanha21@gmail.com
 - LinkedIn: [kanhaiyasinha](https://www.linkedin.com/in/kanhaiyasinha/)
