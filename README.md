@@ -1,25 +1,28 @@
-### 👋 Hello, I'm Kanhaiya Sinha
----
-![169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f](https://github.com/kanhaiyasinha/kanhaiyasinha/assets/147611285/3b38fa13-9907-4da6-a5f0-ca06faa74847)
+# 🌟 Hi there, I'm Kanhaiya Sinha! 🚀
 
----
+Welcome to my digital corner where innovation meets passion! I'm a dynamic software engineer with a knack for crafting elegant solutions to complex problems.
 
-### 👨‍💻 About Me
-I am a passionate and results-driven software engineer with a strong background in developing innovative and efficient solutions. My expertise lies in designing and implementing software solutions that meet business requirements while ensuring scalability and maintainability.
+## 💡 Key Skills
 
-### 🚀 Key Skills
-- **Languages:** Java, Python, JavaScript
-- **Frameworks:** React.js, Express, Node.js, Tailwind CSS, Bootstrap
-- **Databases:** MySQL, MongoDB, , Firebase, Hana DB
-- **Tools & Technologies:** VS Code, Git, Github, Android Studio
+- **Languages:** JavaScript, Python, Java, C, C++
+- **Frontend:** React.js, Redux, React Router, HTML5/CSS3, Tailwind CSS, Material UI, Bootstrap
+- **Backend:** Node.js, Express.js, Flask, Restful API
+- **Version Control:** Git, GitHub
+- **Databases:** SQL, MySQL, RDBMS, MongoDB, Firebase, Hana DB, MsSQL
+- **Operating Systems:** Windows, Linux (RHEL, SLES)
+- **Dev Tools:** Visual Studio, VS Code, PyCharm, Jupyter Notebook
+- **ERP Technologies:** HANA Studio, DBA Cockpit, SAP GUI, Putty, Mobaxterm
 
-### 🌐 Portfolio
-Check out my portfolio for a closer look at some of the projects I've worked on. From web applications to backend systems, I strive for excellence in every line of [Portfolio](https://kanhaiyasinha.github.io/)
+## 🎨 Portfolio Showcase
 
-### 📫 How to Reach Me
-- Email: sinhakanha21@gmail.com
-- LinkedIn: [kanhaiyasinha](https://www.linkedin.com/in/kanhaiyasinha/)
-- Insta : [@_krishna_10_](https://www.instagram.com/_krishna_10_/)
+Dive into my world of creations! From captivating web interfaces to robust backend systems, my projects reflect innovation and excellence. Explore them [here](https://kanhaiyasinha.github.io/).
 
-### ⚡ Fun Fact
-In my free time, I enjoy Travelling, Cricket, Table Tennis. Let's chat about it!
+## 📬 Get in Touch
+
+- **Email:** sinhakanha21@gmail.com
+- **LinkedIn:** [kanhaiyasinha](https://www.linkedin.com/in/kanhaiyasinha/)
+- **Instagram:** [@_krishna_10_](https://www.instagram.com/_krishna_10_/)
+
+## ⚡ Fun Fact
+
+Did you know? When I'm not coding, I'm exploring new destinations, swinging cricket bats, or smashing table tennis balls! Let's chat about our adventures! 🏏🏓✈️
